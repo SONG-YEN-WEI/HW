@@ -22,3 +22,6 @@ ProxyLogon漏洞已經各種駭客組織，對多個產業進行無差別攻擊�
 參考資料
 https://netmag.tw/2021/03/26/%E5%BE%AE%E8%BB%9F%EF%BC%9A%E5%85%A8%E7%90%8392%E7%9A%84exchange-server%E5%B7%B2%E7%B6%93%E5%AE%89%E5%85%A8%E4%BA%86
 https://technews.tw/2021/03/10/microsoft-exchange-server-devcore/
+
+
+訓四子四 106362531 宋彥威
